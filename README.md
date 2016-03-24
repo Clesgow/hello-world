@@ -1,2 +1,3 @@
 # hello-world
-test repository
+
+Hey fellow humans, i'm just testing some things out.
